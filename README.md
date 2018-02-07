@@ -1,6 +1,6 @@
 # WebRFGateway
 
-Web to 433mHz gateway ESP8266 - Fast, Reliable, robust
+Web to 433mHz gateway ESP8266 - Small, Simple, Fast, Reliable, Robust
 
 This project creates and RF Blaster web server running on an ESP8266. 
 
