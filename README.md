@@ -1,6 +1,6 @@
 # WebRFGateway
 
-Web to 433mHz gateway ESP8266 - Small, Simple, Fast, Reliable, Robust simple integration with Node-Red (Big timer, Amzon Alexa) bluetooth sensors based on ESP32 detectors (e.g. detect someones Mi band) PIRs via ESP8266 and embedded controller such as TV transponders. Also has support for IR sending, OTA updated, etc.
+Web to 433mHz gateway ESP8266 - Small, Simple, Fast, Reliable, Robust simple integration with Node-Red (Big timer, Amzon Alexa) bluetooth sensors based on ESP32 detectors (e.g. detect someones Mi band) PIRs via ESP8266 and embedded controller such as TV transponders. Also has support for IR sending, OTA updated, etc. [Hello Oleg]
 
 This project creates and RF Blaster web server running on an ESP8266. 
 
